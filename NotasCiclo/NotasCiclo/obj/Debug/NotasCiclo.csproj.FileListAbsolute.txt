@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\bin\Debug\NotasCiclo.exe.config
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\bin\Debug\NotasCiclo.exe
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\bin\Debug\NotasCiclo.pdb
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\obj\Debug\NotasCiclo.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\obj\Debug\NotasCiclo.Form1.resources
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\obj\Debug\NotasCiclo.Properties.Resources.resources
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\obj\Debug\NotasCiclo.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\obj\Debug\NotasCiclo.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\obj\Debug\NotasCiclo.exe
+C:\Users\MINEDUCYT\source\repos\NotasCiclo\NotasCiclo\obj\Debug\NotasCiclo.pdb
